@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebddc282-ff88-4993-a6ca-893a5e23be49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2BGab5qVoDpVvbgpN0k8y50N3Mo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebddc282-ff88-4993-a6ca-893a5e23be49" name="Default Changelist" comment="" />
+      <created>1656534943230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656534943230</updated>
+      <workItem from="1656534944497" duration="148000" />
+      <workItem from="1656535108601" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="262" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1656535152918">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="262" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1600.860@0.0.1600.860" timestamp="1656535152918" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1656535127226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1656535127226" />
+    <state x="638" y="347" width="347" height="166" key="Github.CreateGistDialog" timestamp="1656535174955">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="638" y="347" width="347" height="166" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1656535174955" />
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1656535108229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1656535108229" />
+  </component>
+</project>
